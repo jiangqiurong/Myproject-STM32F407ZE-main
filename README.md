@@ -1,2 +1,2 @@
-# Myproject-stm32f407-main
-基于stm32f407做的
+# Myproject-STM32F407ZE-main
+基于STM32F407ZE做的智慧健康手环
