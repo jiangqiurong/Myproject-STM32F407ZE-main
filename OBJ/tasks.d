@@ -1,0 +1,16 @@
+..\obj\tasks.o: ..\FREERTOS\core\tasks.c
+..\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\tasks.o: ..\FREERTOS\include\FreeRTOS.h
+..\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\tasks.o: ..\FREERTOS\include\FreeRTOSConfig.h
+..\obj\tasks.o: ..\FREERTOS\include\projdefs.h
+..\obj\tasks.o: ..\FREERTOS\include\portable.h
+..\obj\tasks.o: ..\FREERTOS\include\deprecated_definitions.h
+..\obj\tasks.o: ..\FREERTOS\port\portmacro.h
+..\obj\tasks.o: ..\FREERTOS\include\mpu_wrappers.h
+..\obj\tasks.o: ..\FREERTOS\include\task.h
+..\obj\tasks.o: ..\FREERTOS\include\list.h
+..\obj\tasks.o: ..\FREERTOS\include\timers.h
+..\obj\tasks.o: ..\FREERTOS\include\stack_macros.h
